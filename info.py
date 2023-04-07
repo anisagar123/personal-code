@@ -82,7 +82,7 @@ DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
 DOWNLOAD_TEXT_URL = "http://TinyFy.in/ref/Kushal"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "Subscribe"
+CAPTION_BUTTON = "🔥 CHANNEL 🔥"
 CAPTION_BUTTON_URL = "https://t.me/TG_LINKS_CHANNEL"
 
    # Auto Delete For Bot Sending Files #
